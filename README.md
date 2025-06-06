@@ -60,4 +60,4 @@ If you use this dataset or the associated code, please cite:
 
 - Python 3.x  
 - Jupyter Notebook  
-- Required Python libraries (listed in `requirements.txt` if available, e.g., numpy, matplotlib, scikit-learn, pandas)
+- Required Python libraries (listed in `environment.yml`).
